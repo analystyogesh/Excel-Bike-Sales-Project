@@ -3,11 +3,11 @@ First, We checked the data type of the data.
 Correction of data type.
 cleaning the data,
   Marital status
-   M - Married
-   S - Single
+   (M - Married)
+   (S - Single)
   Gender
-   F - Female
-   M - Male.
+   (F - Female)
+   (M - Male).
 Added a column (Age Brackets) and
   Used nested IF function.
 Now the data is clean.
